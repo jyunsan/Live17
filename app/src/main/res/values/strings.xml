@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="txt_hint_search_user">user name</string>
+    <string name="txt_default_page">-/-</string>
+    <string name="ic_previous">&#060;</string>
+    <string name="ic_next">&#062;</string>
+</resources>
